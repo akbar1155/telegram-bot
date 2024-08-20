@@ -3,17 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
+    "ci": "^2.3.0",
     "express": "^4.19.2",
     "node-telegram-bot-api": "^0.66.0",
     "telegraf": "^4.16.3",
     "youtube-channel-videos": "^1.0.0",
     "ytdl-core": "^4.11.5"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
