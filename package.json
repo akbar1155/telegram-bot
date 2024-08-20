@@ -1,0 +1,19 @@
+{
+  "name": "akbar-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegraf": "^4.16.3",
+    "youtube-channel-videos": "^1.0.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
